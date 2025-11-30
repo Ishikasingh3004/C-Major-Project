@@ -67,8 +67,3 @@ Data is stored persistently in a text file (`hospital_data.txt`).
 - Database integration (e.g., MySQL)
 
 ---
-
-## 📂 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/hospital-management-system.git
